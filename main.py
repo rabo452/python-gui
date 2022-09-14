@@ -4,9 +4,7 @@ from kivy.uix.screenmanager import ScreenManager, Screen
 from kivy.core.window import Window
 
 import re
-from transcript import *
-from phrase_find import *
-from compare import *
+from services import *
 
 
 # pages and their methods
